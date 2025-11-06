@@ -9,6 +9,6 @@
 ## Mon premier choix de carrière ou d’études universitaires
 ## Mon deuxième choix de carrière ou d’études universitaires
 ## Conclusion 
-## Style et mise en page clairs et cohérents, en lien avec votre moodboard.
-## Une transition simple entre chaque diapositive.
-## Au moins 6 images pertinentes avec sources indiquées.
+## Moodboard.
+## Carte Mental
+## Diagramme
